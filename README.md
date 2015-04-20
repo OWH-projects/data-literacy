@@ -18,7 +18,7 @@ Brown-bag session on how to find, obtain, clean and use data on your beat.
 <li><b>Ask for a csv.</b> It's a universal format easily exported from any program. If they say otherwise, call the vendor. Some agencies will give you PDFs. <a href="http://blog.dataomaha.com/pdfs-data-nebraskas-public-records-law-and-why-you-should-care-about-file-formatting/">Try to talk them out of it</a>.</li>
 <li><b>List the fields you want.</b> Some government databases are hugely complicated, with lots of tables that relate to each other. To get around their weirdness, specify exactly the records you're after. When possible, of course.</li>
 <li><b>Dealing with known unknowns</b>. If you know there's a database, but you don't know exactly what's in it, you can request what is variously called a "record layout" or "data dictionary" &mdash; basically, a table of contents for your data file.</li>
-<li>Feel free to use our handy records request generator, which has sample language for Iowa, Nebraska and FOIA requests.</li>
+<li><b>Use our handy records request generator</b>, which has sample language for Iowa, Nebraska and FOIA requests.</li>
 </ul>
 
 ## Checking your data
