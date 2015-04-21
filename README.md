@@ -24,6 +24,8 @@ Brown-bag session on how to find, obtain, clean and use data on your beat.
 ## Checking your data
 Don't make any assumptions about your data. Unless your assumptions are that the file is dirty or incomplete or otherwise imperfect, in which case assume away!
 
+Make sure you understand how your data is created. Is it input by humans? Expect typos. By machines? Expect machine dumbness. Understand why your data exists and what it's supposed to do. Motives are an indicator of biases, and can evolve your understanding of your data considerably.
+
 Approach data the same way you'd approach an unknown source who wants to meet you in a bad part of town: With caution. Maybe you'll end up with a great story. Or maybe you'll end up with a screwdriver in your neck and an empty wallet. Or &mdash; worse &mdash; a correction.
 <img src="http://media.giphy.com/media/4XL512RWMdtZK/giphy.gif" />
 
