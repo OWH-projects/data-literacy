@@ -25,7 +25,6 @@ Brown-bag session on how to find, obtain, clean and use data on your beat.
 Don't make any assumptions about your data. Unless your assumptions are that the file is dirty or incomplete or otherwise imperfect, in which case assume away!
 
 Approach data the same way you'd approach an unknown source who wants to meet you in a bad part of town: With caution. Maybe you'll end up with a great story. Or maybe you'll end up with a screwdriver in your neck and an empty wallet. Or &mdash; worse &mdash; a correction.
-
 <img src="http://media.giphy.com/media/4XL512RWMdtZK/giphy.gif" />
 
 Point is, be paranoid. Run sanity checks on your data, then run them again. Sort, filter and Group By to look for outliers. Check datatypes using =isNAN() and other such functions.
