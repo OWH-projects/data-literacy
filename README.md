@@ -34,4 +34,8 @@ If you find an outrageous value ("There's a home in Sarpy County worth $5 millio
 ## Links
 <ul>
 <li><a href="https://github.com/propublica/guides/blob/master/data-bulletproofing.md">ProPublica's guide to bulletproofing data</a></li>
+<li>PDF: <a href="">Finding documents and data</a></li>
+<li>PDF: <a href="">Negotiating for data</a></li>
+<li>PDF: <a href="">Roundup of data sources</a></li>
+<li>PDF: <a href="">Seeing a data-driven story through to the end</a></li>
 </ul>
