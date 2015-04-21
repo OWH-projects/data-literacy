@@ -34,8 +34,10 @@ If you find an outrageous value ("There's a home in Sarpy County worth $5 millio
 ## Links
 <ul>
 <li><a href="https://github.com/propublica/guides/blob/master/data-bulletproofing.md">ProPublica's guide to bulletproofing data</a></li>
-<li>PDF: <a href="">Finding documents and data</a></li>
-<li>PDF: <a href="">Negotiating for data</a></li>
-<li>PDF: <a href="">Roundup of data sources</a></li>
-<li>PDF: <a href="">Seeing a data-driven story through to the end</a></li>
+<li>Book: <a href="https://books.google.com/books?id=oFtNBQAAQBAJ&lpg=PT85&dq=the%20art%20of%20access">The Art of Access</a></li>
+<li><a href="http://ire.org">Join IRE/NICAR!</a></li>
+<li>PDF: <a href="https://github.com/OWH-projects/data-literacy/blob/master/pdfs/finding-documents-and-data.pdf">Finding documents and data</a></li>
+<li>PDF: <a href="https://github.com/OWH-projects/data-literacy/blob/master/pdfs/negotiating-tips.pdf">Negotiating for data</a></li>
+<li>PDF: <a href="https://github.com/OWH-projects/data-literacy/blob/master/pdfs/data-resources.pdf">Roundup of data sources</a></li>
+<li>PDF: <a href="https://github.com/OWH-projects/data-literacy/blob/master/pdfs/data-driven-story.pdf">Seeing a data-driven story through to the end</a></li>
 </ul>
