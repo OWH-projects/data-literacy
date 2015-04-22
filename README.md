@@ -5,7 +5,7 @@ Brown-bag session on how to find, obtain, clean and use data on your beat.
 <ul>
 <li><b>Check annual/quarterly reports.</b> Reports like <a href="http://opd.ci.omaha.ne.us/images/crime-statistics-reports/quarterly/1st_Qtr_14_RPT1.pdf">this one</a> from the police department can be a huge key. How does the department know average 911 response time? Because they record it for every call. Similar logic can lead to all sorts of neat datasets.</li>
 <li><b>Go up the food chain.</b> The National Center for Education Statistics requires data from the states, which requires data from the districts, which requires data from the schools. This happens in beats we can't even imagine. Find out what federal or state agencies require, and you'll find a local dataset at the end of the rainbow.</li>
-<li><b>Read the rules.</b> Government is fantastic at creating data. It is not so good at following up. Ask Chris Burbach, who found that a city department was supposed to file a quarterly report about it's hiring practices... but wasn't.</li>
+<li><b>Read the rules.</b> Government is fantastic at creating data. It is not so good at following up. Ask Chris Burbach, who found that a city department was supposed to file a quarterly report about its hiring practices... but wasn't.</li>
 <li><b>Request copies of blank forms.</b> To find out what data a department or agency has, see what they're collecting from users.</li>
 <li><b>Chat up a frequent flier.</b> Find somebody whose job requires them to interact with a department frequently, and see what sort of information they have to give up. (E.g., what's it take to pull a building permit? Talk to a builder or electrician.)</li>
 </ul>
