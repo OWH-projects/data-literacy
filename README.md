@@ -21,7 +21,7 @@ Brown-bag session on how to find, obtain, clean and use data on your beat.
 <li><b>Use our handy records request generator</b>, which has sample language for Iowa, Nebraska and FOIA requests.</li>
 </ul>
 
-<img src="https://github.com/OWH-projects/data-literacy/blob/master/rr.png" style="max-width:100%;" />
+<img src="https://github.com/OWH-projects/data-literacy/blob/master/rr.png" style="max-width:100%; border:1px; solid #ccc;" />
 
 ## Checking your data
 Don't make any assumptions about your data. Unless your assumptions are that the file is dirty or incomplete or otherwise imperfect, in which case assume away!
